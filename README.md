@@ -1,6 +1,5 @@
 # SnapFrame 📸✨
 
-
 Live Demo: 👉 https://snapframe-rho.vercel.app/
 
 **SnapFrame** is a powerful, client-side screenshot beautifier that helps developers, designers, and content creators turn plain screenshots into eye-catching visuals perfect for social media, portfolios, and product launches.
@@ -35,7 +34,6 @@ Live Demo: 👉 https://snapframe-rho.vercel.app/
 - **Crop & Resize** - Optimize for any platform
 - **Filters** - Brightness, contrast, saturation adjustments
 
-
 ## 🖼️ Gallery
 
 ### Device Mockups
@@ -47,47 +45,42 @@ Live Demo: 👉 https://snapframe-rho.vercel.app/
 *Gradient backgrounds, solid colors, and custom images*
 
 ### Canvas Editor
-![Canvas Editor](./screenshots//canvas.png)
+![Canvas Editor](./screenshots/canvas.png)
 *Intuitive editing interface with real-time preview*
 
 ### Template Library
-![Templates](./screenshots//templetes.png)
+![Templates](./screenshots/templetes.png)
 *Pre-designed templates for quick styling*
 
 ## 🚀 Quick Start
 
-
-
 ### Basic Workflow
 
-1. **Upload Screenshot** - Drag & drop or click to upload
-2. **Choose Mockup** - Select device frame (browser, phone, laptop, etc.)
-3. **Apply Effects** - Add gradients, shadows, and styling
-4. **Customize** - Adjust colors, padding, corners
-5. **Export** - Download as PNG/JPG in your desired resolution
-
-
-
+1. **Upload Screenshot** - Drag & drop or click to upload  
+2. **Choose Mockup** - Select device frame  
+3. **Apply Effects** - Add gradients, shadows, and styling  
+4. **Customize** - Adjust colors, padding, corners  
+5. **Export** - Download as PNG/JPG  
 
 ## 🌟 Show Your Support
 
 If you find SnapFrame useful, please consider:
-- ⭐ Starring the repository
-- 🐦 Sharing on Twitter
-- 💼 Sharing on LinkedIn
-- 📝 Writing a blog post
+- ⭐ Starring the repository  
+- 🐦 Sharing on Twitter  
+- 💼 Sharing on LinkedIn  
+- 📝 Writing a blog post  
 
 ## 📧 Contact
 
-- Website: [snapframe.app](https://snapframe.app)
-- Twitter: [@snapframe](https://twitter.com/snapframe)
-- Email: hello@snapframe.app
+- Website: https://snapframe.app  
+- Twitter: https://twitter.com/snapframe  
+- Email: hello@snapframe.app  
 
 ## 🙏 Acknowledgments
 
-- Device mockups inspired by [Shots.so](https://shots.so)
-- Gradient presets from [WebGradients](https://webgradients.com)
-- Icons by [Lucide Icons](https://lucide.dev)
+- Device mockups inspired by Shots.so  
+- Gradient presets from WebGradients  
+- Icons by Lucide Icons  
 
 ---
 
