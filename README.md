@@ -71,19 +71,6 @@ If you find SnapFrame useful, please consider:
 - 💼 Sharing on LinkedIn  
 - 📝 Writing a blog post  
 
-## 📧 Contact
 
-- Website: https://snapframe.app  
-- Twitter: https://twitter.com/snapframe  
-- Email: hello@snapframe.app  
-
-## 🙏 Acknowledgments
-
-- Device mockups inspired by Shots.so  
-- Gradient presets from WebGradients  
-- Icons by Lucide Icons  
-
----
-
-<p align="center">Made with ❤️ by developers, for developers</p>
+<p align="center">Made with ❤️ by Sandesh , for developers</p>
 <p align="center">⭐ Star us on GitHub — it helps!</p>
