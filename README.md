@@ -1,6 +1,7 @@
 # SnapFrame 📸✨
 
-Live Demo: 👉 https://snapframe-rho.vercel.app/
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here!-brightgreen?style=for-the-badge)](https://snapframe-rho.vercel.app/)
+
 
 **SnapFrame** is a powerful, client-side screenshot beautifier that helps developers, designers, and content creators turn plain screenshots into eye-catching visuals perfect for social media, portfolios, and product launches.
 
